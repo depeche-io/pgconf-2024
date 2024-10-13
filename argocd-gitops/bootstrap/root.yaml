@@ -21,7 +21,7 @@ spec:
   project: default
   source:
     path: argocd-gitops/projects
-    repoURL: https://github.com/depeche-io/dbaas-postgresql.git
+    repoURL: https://github.com/depeche-io/pgconf-2024.git
   syncPolicy:
     automated:
       allowEmpty: true

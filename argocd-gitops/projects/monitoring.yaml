@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/depeche-io/dbaas-postgresql.git
+    repoURL: https://github.com/depeche-io/pgconf-2024.git
     targetRevision: main
     path: argocd-gitops/apps/monitoring
   destination:
